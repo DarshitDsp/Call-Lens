@@ -1,0 +1,6 @@
+{
+  "name": "AetherDial Operations - Telephony & Voice AI Command Center",
+  "description": "Next-gen inbound and outbound telephony operations center with Twilio SIP trunking, contact upload dialer, softphone console, call recording storage, AI dispositioning, automated follow-up scheduling, and CRM integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
